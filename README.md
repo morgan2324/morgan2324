@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @morgan2324
-- 👀 I’m interested in cybersecurity and understanding computer networks
+- 👋 Hi, I’m Morgan Owanyi
+- 👀 I’m interested in cybersecurity and understanding computer networks as well as Software Development.
 - 🌱 I’m currently learning python coding and javascript
 - 💞️ I’m looking to collaborate ondifeerent python projects so that i am able to get real life experience in the language
 - 📫 How to reach me on my mobile +256781111474 for whatsapp
